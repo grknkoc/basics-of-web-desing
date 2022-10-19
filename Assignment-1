@@ -1,0 +1,46 @@
+<html> 
+   <head>
+    <title>Öz Geçmiş </title>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Gürkan Öz Geçmiş" >
+    <meta name="description" content="Gürkan Koç Öz Geçmişi">
+
+    <style>
+        body {background-color: aquamarine;}
+
+        .metin{
+            text-align: center;
+        }
+      .başlık{text-align: center;}
+
+    </style>
+
+   </head>
+        
+        <body>
+
+          
+
+          <h1 class="başlık"> ÖZ GEÇMİŞ </h1>
+
+          <p class="metin" > Merhaba ben Gürkan Koç. 18 Yaşındayım İstanbul'da doğdum. Ailem İstanbul'da yaşıyor ben ise üniversite için memleketim olan Kütahyaya geldim.
+            Bir kardeşim var 6 yaşında adı Büşra 1. sınıfa gidiyor okumayı yazmayı yeni öğreniyor. Kendimden bahsedeyim ben spor yapmayı bilgisayar ile uğraşmayı seven bir insanım 
+            aslında okuduğum bölümü seçme nedenimde bilgisayara olan ilgimdi. Bu alan ile uğraşmaktan keyif alıyorum açıkcası istediğime ulaştım. Herkes istediğinin peşinden koşmalı bence.
+            
+            </p>  
+
+
+
+
+
+
+
+
+
+
+
+
+        </body>
+  
+
+</html>
